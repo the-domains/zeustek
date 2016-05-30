@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-30T16:29:07.382Z'
+datePublished: '2016-05-30T16:49:33.418Z'
 sourcePath: _posts/2016-04-16-7-spring-road-trips-to-the-most-colorful-flowers-across-amer.md
 inFeed: true
 isBasedOnUrl: 'http://mashable.com/2016/04/15/spring-road-trips/#1t2MANqDGPqa'
@@ -17,7 +17,7 @@ keywords:
   - route
 related: []
 author: []
-dateModified: '2016-05-30T16:29:07.181Z'
+dateModified: '2016-05-30T16:49:33.185Z'
 title: 7 spring road trips to the most colorful flowers across America
 app_links: []
 publisher:
