@@ -1,0 +1,14 @@
+layout_spectrum: 0.28277316014282405
+typography_spectrum: 0.3875162822660059
+color:
+  brandStrength: 0.9228964832145721
+  lightness: 0.6705028559081256
+  saturation: 0.3997085536830127
+  rhythmicContrast: 0.8472197523806244
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: zeustek
