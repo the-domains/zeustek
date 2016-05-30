@@ -6,9 +6,9 @@ color:
   saturation: 0.3997085536830127
   rhythmicContrast: 0.8472197523806244
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: zeustek
